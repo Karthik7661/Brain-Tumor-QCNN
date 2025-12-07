@@ -122,8 +122,11 @@ Brain-Tumor-QCNN/
 
 ---
 
-### Author
-**S. Karthik (2025)** – Brain Tumour Detection using QCNN
+## Author
+**S. Karthik**  
+Developer & Research Student  
+Brain Tumour Detection using Quantum Convolutional Neural Networks  (2025)
+
 
 ---
 
