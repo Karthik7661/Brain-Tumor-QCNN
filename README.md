@@ -82,7 +82,7 @@ brain_Tumor_karr/
 | Yes (Tumour) | 0.98      | 0.97   | 0.98     |
 | No (Normal)  | 0.99      | 0.99   | 0.99     |
 
-**Overall Accuracy:** 0.99  
+**Overall Accuracy:** 0.996  
 
 ---
 
