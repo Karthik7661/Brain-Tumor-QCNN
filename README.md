@@ -35,6 +35,22 @@ This project explores a hybrid approach — classical convolutional feature extr
 
 ---
 
+## Research Publication
+
+This project is based on the following published research paper:
+
+Title: Brain Tumour Detection Using Quantum Convolutional Neural Networks (QCNN)
+
+Conference: IEEE Odisha International Conference on Information Technology (OCIT 2025)
+
+Publisher: IEEE
+
+DOI: https://doi.org/10.1109/OCIT66168.2025.11400476
+
+This repository contains the implementation corresponding to the published work.
+
+---
+
 ## Features
 - Hybrid QCNN architecture (EfficientNet + Quantum Layer)
 - Binary brain tumor classification
